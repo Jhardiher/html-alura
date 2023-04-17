@@ -25,3 +25,8 @@ h2{
 .items{
     font-style: italic;
 }
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 25%;  
+}
