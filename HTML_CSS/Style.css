@@ -1,3 +1,11 @@
+
+body{
+    background-color: white
+    
+} 
+.bloque1{
+ background-color: #cccc
+}
 p{ 
     text-align: center;
 }
@@ -7,10 +15,13 @@ h1{
 h2{
     text-align: center;
 }
-body{
-    background-color: #cccc
-    ;
-} 
+
+
+.menu{
+   
+}
+
+
 .items{
     font-style: italic;
 }
